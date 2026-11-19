@@ -1,0 +1,141 @@
+folder,constant_page,how_mapped
+c1ab,1a,README section: C1a and C1b: fourteen step-function rows (8 and 10 November 2026)
+c1ab367,1a,"RESULT.md heading: # 1a and 1b: the step functions of PR #367, of [Cum2026] and of PR #368 (14 November 2026)"
+c1ac,1a,"README section: C1c, C1a and C1d: six step functions of 9 and 10 November 2026, and the first 1c certif"
+c1mv,1a,README table row:  1a [MV2009] $\le 1.50992$ 
+c1ab,1b,README section: C1a and C1b: fourteen step-function rows (8 and 10 November 2026)
+c1ab367,1b,"RESULT.md heading: # 1a and 1b: the step functions of PR #367, of [Cum2026] and of PR #368 (14 November 2026)"
+c1ac,1c,"README section: C1c, C1a and C1d: six step functions of 9 and 10 November 2026, and the first 1c certif"
+c1c354pw,1c,"RESULT.md heading: # 1c: the piecewise-polynomial certificate of PR #354, $C_{1c} \ge 0.410378195$\* (14 November 2026)"
+c1c366,1c,"README section: C1c: #366's certificate with $K = 98{,}304$ cells (14 November 2026)"
+c1cbs20,1c,RESULT.md heading: # 1c: the upper bound [BS2020] $1/(2(1+\theta_0))$ from its definition (16 November 2026)
+c1cmix,1c,RESULT.md heading: # 1c: the mixture certificate behind PR #354's remark on test-measure upper bounds (14 November 2026
+c1cntt,1c,README section: C1c: #354's certificates with $K = 2^{22}$ and $K = 2^{24}$ cells (11 November 2026)
+c1ac,1d,"README section: C1c, C1a and C1d: six step functions of 9 and 10 November 2026, and the first 1c certif"
+c1d371,1d,"RESULT.md heading: # 1d: the 327,680-cell step function of PR #371 (15 November 2026)"
+c1d371b,1d,"RESULT.md heading: # 1d: the eighth certificate of PR #371, $C_{1d} \le 1.4546676818$\* (16 November 2026)"
+c1d372,1d,"RESULT.md heading: # 1d: the 51,200-cell step function of PR #372 (16 November 2026)"
+c1dl,1d,README section: 1d: the lower bound $C_{1d} \geq 1.152$ (10 November 2026)
+c2a,2a,README table row:  2a [C2007] $2$ 
+c3a,3a,README section: C3a: the Gyarmati-Hennecart-Ruzsa sum-difference constant (5 November 2026)
+c3az,3a,README table row:  3a [Ru96] $2 - \log 6/\log 7$ 
+c3b,3b,README section: 3b: the Katz-Tao sum-difference constant (7 November 2026)
+c3c,3c,folder name
+c3d,3d,README table row:  3d [FrPi73] $1.059793\ldots$ 
+c3e,3e,README section: C3e: a sums-and-differences constant (6 November 2026)
+c4a,4a,README table row:  4a [P1970] $2.1146$ 
+c4b,4b,"README section: 4b: Naslund's interval-moment certificates, 0.75806746, 0.7580758 and 0.75806770413 (11"
+c5a,5a,"README section: C5a: a Sidon set constant, Erdős problem 30 (6 November 2026)"
+c5acot,5a,"RESULT.md heading: # 5a: the WT-triple witnesses of [COT26], $C_{5a} \le 0.94304$ (16 November 2026)"
+c5ast26,5a,"RESULT.md heading: # 5a: the bound of Carter, Hunter and O'Bryant maximised exactly, [St26] $C_{5a} \le 0.98173$\* and "
+c5b,5b,README section: 5b: exact values of f(n) for Erdős problem #757 (10 November 2026)
+cforms31,6a,"RESULT.md heading: # Closed forms on eight pages that had no replay folder: 6a, 11b, 35a, 88b, 23b, 46a, 56a, 61a (16 N"
+c7a,7a,folder name
+c7azz,7a,RESULT.md heading: # 7a: Zeilberger and Zudilin's bound [ZZ2020] $\mu(\pi) \le 7.103205334137\ldots$ (16 November 2026)
+c8a,8a,"RESULT.md heading: # 8a: the lower bound $C_8 \ge 2/\log\gamma_1 \approx 0.755106$, with a certified zero of $\zeta$ (1"
+c8a373,8a,RESULT.md heading: # 8a: the finite inputs of PR #373's deduction $C_8 \le 2/\log\gamma_1$ (16 November 2026)
+c9,9a,"README section: C9: the 134,753-vertex independent set of [IRCR2026] (8 November 2026)"
+c9l,9a,README table row:  9a [BMRRST1971] $343^{1/5}$ 
+c9th,9a,README table row:  9a [L1979] $\vartheta(C_7) \approx 3.3177$ 
+c10a,10a,"RESULT.md heading: # 10a, the real Grothendieck constant: the Davie-Reeds value K_DR and four closed forms (15 November"
+c10ap26,10a,RESULT.md heading: # 10a [P2026] $K_G^{\mathbb R} \le 1.7813$\*: a replay of the computational content (15 November 202
+c10b,10b,"RESULT.md heading: # 10b, the complex Grothendieck constant: Haagerup's upper bound and the lower bound of [GFL26] (15 "
+c10c,10c,README section: 10c: four discrepancy certificates (11 November 2026)
+c11ais,11a,"RESULT.md heading: # 11a: $\delta$ of [IS2024], $C_{11a} \le \pi/2 - \delta$ (16 November 2026)"
+celem,11a,"RESULT.md heading: # Five elementary rows on four pages without a replay folder: 20b, 25a, 39a, 11a (14 November 2026)"
+cforms31,11b,"RESULT.md heading: # Closed forms on eight pages that had no replay folder: 6a, 11b, 35a, 88b, 23b, 46a, 56a, 61a (16 N"
+c12a,12a,README section: C12a: the Euclidean travelling salesman constant (6 November 2026)
+c13a,13a,folder name
+c13acov,13a,"RESULT.md heading: # 13a: the covering certificate of the upper bound [K2026], $C_{13a} \le 0.2463322372\ldots$\* (14 N"
+c13b,13b,README table row:  13b [Pal1920] $\sqrt3/2$ 
+c13bel,13b,RESULT.md heading: # 13b: the lower bound [Elek1994] 0.8257 (16 November 2026)
+c14a,14a,"RESULT.md heading: # 14a, the least n for which BB(n) is independent of ZFC: the determinations of BB(3) and BB(4) (15 "
+c15a,15a,README table row:  15a [S1969] $\log_2 7$ 
+c15b,15b,README section: C15b: the dual matrix multiplication exponent (6 November 2026)
+c16,16a,README section: C16: the Brezis-Gallouet-Wainger remainder constant on the torus (5 November 2026)
+c17,17a,folder name
+c17b,17b,"README section: 17b: R(3,33) >= 241 from a circulant graph on Z_240 (10 November 2026)"
+c18,18a,folder name
+c19a,19a,RESULT.md heading: # 19a [E1956]: Esseen's lower bound $c_E = \frac{\sqrt{10}+3}{6\sqrt{2\pi}} \approx 0.4097321837$ fr
+c20,20a,README table row:  20a [Pat2026] $8$ 
+celem,20b,"RESULT.md heading: # Five elementary rows on four pages without a replay folder: 20b, 25a, 39a, 11a (14 November 2026)"
+c22a,22a,README section: 22a: the ropelength lower bound 2.124 (10 November 2026)
+c22b,22b,"README section: 22b: the double-helix construction of [Claude2026], $C_{22b} \le 7.2012719$\* (12 Novem"
+cforms31,23b,"RESULT.md heading: # Closed forms on eight pages that had no replay folder: 6a, 11b, 35a, 88b, 23b, 46a, 56a, 61a (16 N"
+c24,24a,README section: C24: the Komlós constant of Akbas and Sra (8 November 2026)
+c24k,24a,README table row:  24a [Kun2023] $1+\sqrt2$ 
+celem,25a,"RESULT.md heading: # Five elementary rows on four pages without a replay folder: 20b, 25a, 39a, 11a (14 November 2026)"
+c26a,26a,README section: 26a: an explicit Bohnenblust-Hille family on the cube (10 November 2026)
+c26b,26b,README table row:  26b [DMPSS2014] $2$ 
+c27a,27a,README table row:  27a [MM1961] $4$ 
+c27h,27a,"README table row:  27a [Had1945], [CR2017] $7$ "
+c27b,27b,README table row:  27b [R1959] $8$ 
+c28a,28a,README section: 28a: Borsuk's conjecture fails in dimension 63 [Gri2026] (11 November 2026)
+c29a,29a,README table row:  29a [KZ1873] $40$ 
+c30,30a,folder name
+c32a,32a,"RESULT.md heading: # 32a, one-shot channel simulation: the closed form of [Li25] (15 November 2026)"
+c33a,33a,"RESULT.md heading: # 33a, the Ihara constant $A(2)$: the finite inputs of [DM2013] $A(2) \ge 0.316999\ldots$ (15 Novemb"
+cforms31,35a,"RESULT.md heading: # Closed forms on eight pages that had no replay folder: 6a, 11b, 35a, 88b, 23b, 46a, 56a, 61a (16 N"
+c36a,36a,README table row:  36a [dLOV2014] $\pi^2/16$ (lower) 
+c37,37a,README section: 37a: no Boolean function of degree 4 has sensitivity 10 (9 November 2026)
+celem,39a,"RESULT.md heading: # Five elementary rows on four pages without a replay folder: 20b, 25a, 39a, 11a (14 November 2026)"
+c40,40a,README table row:  40a [Leh1933] $1.176280\ldots$ 
+c41a,41a,README table row:  41a [Hammersley1968] $\pi/2 + 2/\pi$ 
+c41b,41b,"README section: 41b: the ambidextrous moving sofa, $C_{41b} \le 2\sqrt2 - 1$\* (10 November 2026)"
+c41brom,41b,RESULT.md heading: # 41b: the area of Romik's ambidextrous sofa [Romik2016] (16 November 2026)
+c42,42a,README section: C42: Turán's pure power-sum constant (6 November 2026)
+c43a,43a,README table row:  43a [GP1968] $\sqrt3/2$ 
+c44,44a,README section: C44 and C70 (4 November 2026)
+c70,44a,README section: C44 and C70 (4 November 2026)
+c45,45a,"README section: 45a: the 54-prime row [S2026] of #290, $C_{45} < 0.489481743486002$ (14 November 2026)"
+cforms31,46a,"RESULT.md heading: # Closed forms on eight pages that had no replay folder: 6a, 11b, 35a, 88b, 23b, 46a, 56a, 61a (16 N"
+c47,47a,README section: C47: the centred maximal constant over squares in the plane (7 November 2026)
+c48a,48a,"RESULT.md heading: # 48a, the one-dimensional convex sub-Gaussian comparison constant: $C_{48} = c_0^2$ (15 November 20"
+c49,49a,README section: C49: the 3-sunflower-free capacity (4 November 2026)
+c49p370,49a,"RESULT.md heading: # 49a: the 252,303-set block of PR #370, $\mu_3 \ge 1.5678643$\* [Pin2026] (14 November 2026)"
+c49u,49a,README table row:  49a [NS2017] $3/2^{2/3}$ (upper) 
+c50a,50a,"RESULT.md heading: # 50a, the Quantum Max Cut approximation ratio: [GP19] 0.498 from its definition (15 November 2026)"
+c50alp,50a,RESULT.md heading: # 50a: Lee and Parekh's 0.595 [LP24] (17 November 2026)
+c50apt,50a,RESULT.md heading: # 50a: Parekh and Thompson's 0.533 [PT21] (17 November 2026)
+c51,51a,README section: C51: the Erdős maximum-term constant (7 November 2026)
+c52a,52a,"RESULT.md heading: # 52a, random 3-SAT: the first-moment bound [FP1983] 5.191 from the page's model (15 November 2026)"
+c53a,53a,README table row:  53a [GG2006] $3$ 
+c55a,55a,"RESULT.md heading: # 55a, the acyclic chromatic index coefficient: the computational inputs of three upper bounds (15 N"
+cforms31,56a,"RESULT.md heading: # Closed forms on eight pages that had no replay folder: 6a, 11b, 35a, 88b, 23b, 46a, 56a, 61a (16 N"
+c57ab,57a,"RESULT.md heading: # 57a and 57b, Bloch's and Landau's constants: the closed forms of [AG1937] and [Rad1943] (15 Novemb"
+c57ab,57b,"RESULT.md heading: # 57a and 57b, Bloch's and Landau's constants: the closed forms of [AG1937] and [Rad1943] (15 Novemb"
+c57c,57c,folder name
+c57cv,57c,"README section: 57c: the univalent Bloch-Landau constant, $U \le 0.65628589$\* [vS2026] (10 November 20"
+c58,58a,README table row:  58a [Kan2021] $5$ 
+c59,59a,README section: C59: the Bohr radius of the bidisc (6 November 2026)
+cforms31,61a,"RESULT.md heading: # Closed forms on eight pages that had no replay folder: 6a, 11b, 35a, 88b, 23b, 46a, 56a, 61a (16 N"
+c63,63a,README section: C63 and C64: the Li-Yang exponent $\theta^*$ (8 November 2026)
+c64,63a,README section: C63 and C64: the Li-Yang exponent $\theta^*$ (8 November 2026)
+c63,64a,README section: C63 and C64: the Li-Yang exponent $\theta^*$ (8 November 2026)
+c64,64a,README section: C63 and C64: the Li-Yang exponent $\theta^*$ (8 November 2026)
+c68,68a,README section: C68: Korenblum's constant (5 November 2026)
+c69a,69a,README table row:  69a [Tao2022] $1$ 
+c44,70a,README section: C44 and C70 (4 November 2026)
+c70,70a,README section: C44 and C70 (4 November 2026)
+c71,71a,folder name
+c71hod,71a,RESULT.md heading: # 71a: Hod's $\beta(1/2)$ [Hod2017] (16 November 2026)
+c73,73a,README table row:  73a [CS2019] $2+\sqrt2$ 
+c76a,76a,README table row:  76a [BS2007] $3d^2$ 
+c78a,78a,README table row:  78a [FP2011] $1$ 
+c80a,80a,"RESULT.md heading: # 80a, the Ising perceptron: alpha_star of [H2024] and [DS2025] from its definition, and [AT2024] 0."
+c82,82a,README section: C82: the essential minimum of the Zhang-Zagier height (4 November 2026)
+c82gri,82a,"RESULT.md heading: # 82a: the certificate of [Gri26], $C_{82} \le 0.2536331090204145$ (16 November 2026)"
+c82v6,82a,"RESULT.md heading: # C82: PR #280's update of 14 November 2026 (v6), $C_{82} < 0.2519694883$\*, replayed by two separat"
+c83a,83a,"RESULT.md heading: # 83a, the Wirsing constant: [Schweiger1980] 0.38197 and [MR1987] 0.30366299, 0.30366327 from the de"
+c84a,84a,"README section: C84a: the unit distance exponent, Sawin's criterion (8 November 2026)"
+c84b,84b,README section: C84b: Althoefer's chain for the sum-product exponent (8 November 2026)
+c86,86a,README section: C86: the Schur-Siegel-Smyth trace constant (4 November 2026)
+c86sie,86a,RESULT.md heading: # 86a: Siegel's bound [Sie45] $\approx 1.73361$ from its definition (16 November 2026)
+c87,87a,"README section: C87: Martinet's totally real tower, $4\sqrt{70035}$ (8 November 2026)"
+c88a,88a,RESULT.md heading: # 88a: the admissible tuples behind the upper-bound rows (14 November 2026)
+cforms31,88b,"RESULT.md heading: # Closed forms on eight pages that had no replay folder: 6a, 11b, 35a, 88b, 23b, 46a, 56a, 61a (16 N"
+c89,89a,folder name
+c89a,89a,README section: C89: the Ramsey multiplicity of $K_4$ (7 November 2026)
+c89e,89a,README table row:  89a [Erd1962] $1/32$ 
+c89p,89a,"ezl_check.py docstring: ""two more 89a upper-bound rows"""
+c90a,90a,"RESULT.md heading: # 90a: the page's elementary covering system, $C_{90} \ge 2$ (14 November 2026)"

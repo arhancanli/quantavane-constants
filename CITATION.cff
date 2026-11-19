@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this table, please cite it as below, and credit the holder and source named in each row."
+type: dataset
+title: "Named constants: best known bounds, who holds them, and checkers"
+abstract: "A living table of named mathematical constants: for each bound, the best value known, who holds it and where it is published, Quantavane's own certified bound where there is one, and a program that checks it. Includes the 240 bounds of Terence Tao's table of optimization constants with their holders read from each constant's page."
+authors:
+  - family-names: Canli
+    given-names: Arhan
+    affiliation: Quantavane
+license: CC-BY-4.0
+repository-code: "https://github.com/arhancanli/quantavane-constants"
+keywords:
+  - mathematical constants
+  - best known bounds
+  - certificates
+  - checkers

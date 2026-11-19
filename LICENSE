@@ -1,0 +1,8 @@
+Copyright (c) 2026 Arhan Canli (Quantavane)
+
+The data in this repository (constants.csv, replays.csv) and README.md are licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+The rows whose id begins with "T-" restate bounds and references from Terence Tao's table of optimization constants
+(github.com/teorth/optimizationproblems), which is licensed under the Apache License 2.0; a copy of that licence is in
+LICENSE-teorth-optimizationproblems. Please credit that table and the works it cites.
