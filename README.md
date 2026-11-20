@@ -29,14 +29,16 @@ README, or the folder name).
 
 ## What is in it
 
-- **3 constants where our certified bound is the best we know of** (rows `QV-`):
+- **4 constants where our certified bound is the best we know of** (rows `QV-`):
   - the union-closed sets constant, c_UC >= c* + 2.9e-4 (github.com/arhancanli/quantavane-union-closed);
   - the diagonal Ramsey growth base, R(k,k) <= (3.4827 + o(1))^k;
   - the off-diagonal Ramsey exponents on l/k in [1/5, 1] (Theorem O). These two are in
-    github.com/arhancanli/quantavane-diagonal-ramsey.
+    github.com/arhancanli/quantavane-diagonal-ramsey;
+  - the smallest rank at which the van Emde Boas-Kruyswijk conjecture fails for C_6^r: D(C_6^13) >= 67, so
+    D(C_6^r) > 5r + 1 from r = 13, where Gao, Geroldinger, Wang and Zeng (arXiv:2611.24775) showed it from r = 23
+    (github.com/arhancanli/quantavane-davenport-c6).
 
-  Each has two separately written checkers and a referee inside Quantavane. None is peer reviewed yet. A fourth
-  result joins the table when its deposit goes public.
+  Each has two separately written checkers and a referee inside Quantavane. None is peer reviewed yet.
 - **120 constants of Terence Tao's table** (github.com/teorth/optimizationproblems), 240 bounds, as listed on its main
   branch at commit 87b4ebb (28 October 2026; still the head of main on 20 November 2026).
   - The holder of every one of the 240 bounds was read against the constant's own page at the same commit.
