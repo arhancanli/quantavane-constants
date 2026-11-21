@@ -29,7 +29,7 @@ README, or the folder name).
 
 ## What is in it
 
-- **5 constants where our certified bound is the best we know of** (rows `QV-`):
+- **6 constants where our certified bound is the best we know of** (rows `QV-`):
   - the union-closed sets constant, c_UC >= c* + 3.0e-4 (github.com/arhancanli/quantavane-union-closed);
   - the diagonal Ramsey growth base, R(k,k) <= (3.4827 + o(1))^k;
   - the off-diagonal Ramsey exponents on l/k in [1/5, 1] (Theorem O). These two are in
@@ -39,7 +39,11 @@ README, or the folder name).
     (github.com/arhancanli/quantavane-davenport-c6);
   - the signed third autocorrelation constant of Tao's table (1d), C_1d <= 1.4513061918499, a local refinement of
     C. Weill's 102,400-cell function (open pull request #374, 1.4513064006879361), 2.1e-7 below it
-    (github.com/arhancanli/quantavane-replays, improvements/c1d).
+    (github.com/arhancanli/quantavane-replays, improvements/c1d);
+  - the Euclidean TSP (Beardwood-Halton-Hammersley) constant, beta >= 0.64309: Dong and Cao's lower-bound formula
+    (arXiv:2610.02809, Theorem 3.11) with their certified C_5 and our sharper certified C_3 >= 0.0114906 and
+    C_4 >= 0.0055846 (theirs 0.0111353, 0.0050406), above their 0.6421913
+    (github.com/arhancanli/quantavane-replays, improvements/c12_bhh_lower).
 
   Each has two separately written checkers and a referee inside Quantavane. None is peer reviewed yet.
 - **120 constants of Terence Tao's table** (github.com/teorth/optimizationproblems), 240 bounds, as listed on its main
