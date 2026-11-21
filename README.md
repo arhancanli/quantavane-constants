@@ -79,6 +79,9 @@ table and the papers it cites.
 }
 ```
 
+Known uses of this work are listed in [USED_BY.md](USED_BY.md). If you use it, please open an issue or a pull request
+with a link so that yours can be added.
+
 ## Authorship and the role of AI
 
 Author and maintainer: Arhan Canli (Quantavane), who takes responsibility for this table.
