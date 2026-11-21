@@ -30,7 +30,7 @@ README, or the folder name).
 ## What is in it
 
 - **4 constants where our certified bound is the best we know of** (rows `QV-`):
-  - the union-closed sets constant, c_UC >= c* + 2.9e-4 (github.com/arhancanli/quantavane-union-closed);
+  - the union-closed sets constant, c_UC >= c* + 3.0e-4 (github.com/arhancanli/quantavane-union-closed);
   - the diagonal Ramsey growth base, R(k,k) <= (3.4827 + o(1))^k;
   - the off-diagonal Ramsey exponents on l/k in [1/5, 1] (Theorem O). These two are in
     github.com/arhancanli/quantavane-diagonal-ramsey;
